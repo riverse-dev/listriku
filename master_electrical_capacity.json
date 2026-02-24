@@ -1,0 +1,34 @@
+[
+  {
+    "name": "450 VA (Subsidi)",
+    "pricePerKwh": 415.0
+  },
+  {
+    "name": "900 VA (Subsidi)",
+    "pricePerKwh": 605.0
+  },
+  {
+    "name": "900 VA",
+    "pricePerKwh": 1352.0
+  },
+  {
+    "name": "1.300 VA",
+    "pricePerKwh": 1444.70
+  },
+  {
+    "name": "2.200 VA",
+    "pricePerKwh": 1444.70
+  },
+  {
+    "name": "3.500 VA",
+    "pricePerKwh": 1699.53
+  },
+  {
+    "name": "5.500 VA",
+    "pricePerKwh": 1699.53
+  },
+  {
+    "name": "6.600 VA",
+    "pricePerKwh": 1699.53
+  }
+]
